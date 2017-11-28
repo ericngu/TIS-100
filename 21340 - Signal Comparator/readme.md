@@ -9,7 +9,7 @@
   AN OUTPUT, WRITE A 0 INSTEAD
 ```
 
-Level map
+## Level map
 
 ```
  IN
@@ -23,3 +23,5 @@ Level map
       G   E   L
 ```
 
+## Achievement
+UNCONDITIONAL - Solve SIGNAL COMPARATOR without using the JGZ, JLZ, JEZ, or JNZ instructions.

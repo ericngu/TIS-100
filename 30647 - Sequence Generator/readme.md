@@ -8,7 +8,7 @@
 > WRITE 0 TO END THE SEQUENCE
 ```
 
-Level map
+## Level map
 
 ```
       A   B

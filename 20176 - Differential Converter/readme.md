@@ -6,7 +6,7 @@
 > WRITE IN.B - IN.A TO OUT.N
 ```
 
-Level map
+## Level map
 
 ```
       A   B

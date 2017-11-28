@@ -7,7 +7,7 @@
   WRITE THE VALUE TO OUT.A
 ```
 
-Level map
+## Level map
 
 ```
   X           A
@@ -21,3 +21,5 @@ Level map
   X           A
 ```
 
+## Achievement
+BUSY_LOOP - Solve SELF-TEST DIAGNOSTIC in over 100,00 cycles.

@@ -8,7 +8,7 @@
 > WRITE IN.A * IN.B WHEN IN.S = 0
 ```
 
-Level map
+## Level map
 
 ```
       A   S   B

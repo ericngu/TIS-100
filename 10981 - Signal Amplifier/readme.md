@@ -6,7 +6,7 @@
 > WRITE THE VALUE TO OUT.A
 ```
 
-Level map
+## Level map
 
 ```
      I.A
@@ -20,3 +20,5 @@ Level map
          O.A
 ```
 
+## Achievement
+PARRALLELIZE - Solve SIGNAL AMPLIFIER in fewer than 100 cycles.

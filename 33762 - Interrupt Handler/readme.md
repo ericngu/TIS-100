@@ -8,7 +8,7 @@
   IN THE SAME INPUT CYCLE
 ```
 
-Level map
+## Level map
 
 ```
   1   2   3   4

@@ -7,7 +7,7 @@
 > WRITE THE LENGTH TO OUT.L
 ```
 
-Level map
+## Level map
 
 ```
      IN
@@ -21,3 +21,5 @@ Level map
       S   L
 ```
 
+## Achievement
+NO_BACKUP - Solve SEQUENCE COUNTER without using the SWP instruction.

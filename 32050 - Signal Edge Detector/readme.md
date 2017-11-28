@@ -8,7 +8,7 @@
 > THE FIRST OUTPUT IS ALWAYS 0
 ```
 
-Level map
+## Level map
 
 ```
      IN
