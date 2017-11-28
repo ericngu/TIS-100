@@ -1,0 +1,24 @@
+# Segment 30647 - Sequence Generator
+
+```
+> SEQUENCES ARE ZERO-TERMINATED
+> READ VALUES FROM IN.A AND IN.B
+> WRITE THE LESSER VALUE TO OUT
+> WRITE THE GREATER VALUE TO OUT
+> WRITE 0 TO END THE SEQUENCE
+```
+
+Level map
+
+```
+      A   B
++---+---+---+---+
+|   |   |   |   |
++---+---+---+---+
+|   |   |   |   |
++---+---+---+---+
+|   | X |   |   |
++---+---+---+---+
+         OUT
+```
+
