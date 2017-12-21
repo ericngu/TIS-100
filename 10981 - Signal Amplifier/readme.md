@@ -21,4 +21,4 @@
 ```
 
 ## Achievement
-PARRALLELIZE - Solve SIGNAL AMPLIFIER in fewer than 100 cycles.
+PARALLELIZE - Solve SIGNAL AMPLIFIER in fewer than 100 cycles.
